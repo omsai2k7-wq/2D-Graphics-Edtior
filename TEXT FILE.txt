@@ -1,0 +1,27 @@
+Prompt 1:
+Create a basic 2D Graphics Editor in C with a menu-driven interface.
+
+Response:
+A basic graphics editor was developed using the C programming language. A fixed-size canvas was created along with a menu-driven user interface. Functions for drawing lines and rectangles were implemented, and options were provided to display and clear the canvas.
+
+---
+
+Prompt 2:
+Extend the editor by adding additional shapes and a shape storage system.
+
+Response:
+The editor was enhanced by introducing triangle and circle drawing functionality. A shape storage system was also implemented to keep track of created shapes and support future editing and management operations.
+
+---
+
+Prompt 3:
+Add shape management features, file handling, and integrate all components.
+
+Response:
+The program was further improved by adding modify and delete operations for stored shapes. File handling functionality was implemented to save and load drawings. All features were integrated into a single application, and the program was tested and refined to ensure smooth execution and proper user interaction.
+
+---
+
+Conclusion:
+
+GenAI assistance was utilized during the development process for code generation, feature enhancement, debugging, and integration of the various components of the 2D Graphics Editor. Over three development stages, the project evolved from a basic drawing application into a complete graphics editor featuring multiple shape-drawing functions, shape management capabilities, file operations, and an interactive menu-driven interface. The final program successfully meets the project requirements and provides an efficient environment for creating and managing simple 2D graphical objects.
